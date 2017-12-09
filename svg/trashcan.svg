@@ -43,8 +43,6 @@
 		document.getElementById('lid-layer').style.transform = 'rotate(0deg) translateX(0px)';
 		document.querySelector('.trashcan').style.fill = '#9B9C9D';
 	}
-
-
 </script>
 <switch>
 	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
