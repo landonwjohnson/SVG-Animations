@@ -1,4 +1,21 @@
-.trashcanIcon{
-    width: 400px;
-    height: 400px;
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.svgItem{
+    width: 250px;
+    height: 100%;
+}
+
+.svg-container{
+    display: flex;
+    flex-direction:  column;
+    align-items: space-around;
+    border: 1px solid black;
+    max-height: 100%;
+    max-width: 250px;
+    padding: 40px;
 }
